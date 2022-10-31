@@ -6,11 +6,11 @@ theme = "ghostwriter"
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "My headline"
-    description = "My description"
-    github = "https://github.com/mrivaslezama"
+    headline = "La tia Romy Restaurante"
+    description = "Mi blog y publicaciones"
+    github = "https://www.instagram.com/restauranttiaromy/?hl=es"
     twitter = "https://twitter.com/mrivaslezama"
-    email = "mrivaslezama@gmail.com"
+    email = "romyrestau@gmail.com"
     opengraph = true
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
